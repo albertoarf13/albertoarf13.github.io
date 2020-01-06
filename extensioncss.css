@@ -1,0 +1,76 @@
+*{
+    /*border: 1px solid black;*/
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    background: #F6F6F6;
+}
+
+#main{
+    background: #F6F6F6;
+    margin: 10px auto;
+    width: 50%;
+}
+
+#main h1{
+    margin: 20px;
+}
+
+.header{
+    background: white;
+    border-radius: 6px;
+    padding: 50px 40px;
+    margin: 20px;
+
+}
+
+.header button{
+    float: right;
+    background: #3022EF;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 40px;
+    font-weight: bold;
+}
+
+.header input{
+    padding: 10px 10px;
+    margin-right: 20px;
+}
+
+
+
+.eventCard{
+    /*border: 1px solid red;*/
+    background: white;
+    border-radius: 6px;
+    padding: 10px 40px;
+    margin: 20px;
+
+}
+
+.eventCard p {
+    display: inline-block;
+}
+
+.eventCard .title{
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+.eventCard .date{
+
+}
+
+.eventCard .daysLeft{
+    float: right;
+}
+
+
+
