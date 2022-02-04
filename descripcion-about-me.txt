@@ -1,1 +1,15 @@
 Estoy cursando el 3º año de Ingeniería de Software. Gracias a esto tengo conocimientos ...
+
+
+
+Proyectos
+
+* Restaurante laravel
+
+* DesignStorm laravel
+
+* Puedo meter tambien la aplicacion de Shopify
+
+* Shopify theme tambien
+
+* 
