@@ -1452,6 +1452,7 @@ a:focus {
 .blog .blog-item a.btn {
     margin-top: 10px;
     padding: 8px 15px;
+    color: white;
 }
 
 .blog .blog-item a.btn i {
