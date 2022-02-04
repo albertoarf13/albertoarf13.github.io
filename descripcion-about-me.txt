@@ -8,7 +8,7 @@ Proyectos
 
 * DesignStorm laravel
 
-* Puedo meter tambien la aplicacion de Shopify
+* Puedo meter tambien la aplicacion de Shopify de UTM
 
 * Shopify theme tambien
 
