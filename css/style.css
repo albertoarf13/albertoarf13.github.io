@@ -548,6 +548,9 @@ a:focus {
 .about .about-text a.btn {
     margin-top: 15px;
 }
+.about .about-text a.btn:active {
+    color: white;
+}
 
 @media (max-width: 991.98px) {
     .about .about-content {
@@ -1452,6 +1455,8 @@ a:focus {
 .blog .blog-item a.btn {
     margin-top: 10px;
     padding: 8px 15px;
+}
+.blog .blog-item a.btn:active {
     color: white;
 }
 
